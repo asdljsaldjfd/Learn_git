@@ -5,3 +5,4 @@ for i in range(1, 6):
 print("12345")
 print("adding another line")
 print("9999")
+print("checking about merging")
