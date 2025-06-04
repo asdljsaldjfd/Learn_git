@@ -41,3 +41,19 @@
 
 # ...
 # -------------------------------------------------------------------------------------------------------------
+
+
+# 217. Contains Duplicate 
+
+# class Solution:
+#     def containsDuplicate(self, nums: List[int]) -> bool:
+#         sorted_nums = sorted(nums)
+#         number = sorted_nums[0]
+#         for i in sorted_nums[1:]:
+#             if (i == number):
+#                 return True
+#             else :
+#                 number = i
+#         return False
+
+# --------------------------------------------------------------------------------------------------------
