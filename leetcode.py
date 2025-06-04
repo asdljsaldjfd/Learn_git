@@ -41,3 +41,23 @@
 
 # ...
 # -------------------------------------------------------------------------------------------------------------
+
+
+# 217. Contains Duplicate 
+
+# class Solution:
+#     def containsDuplicate(self, nums: List[int]) -> bool:
+#         sorted_nums = sorted(nums)
+#         number = sorted_nums[0]
+#         for i in sorted_nums[1:]:
+#             if (i == number):
+#                 return True
+#             else :
+#                 number = i
+#         return False
+
+# so find the duplicate if there is give true or else false :
+
+# so i sorted and checked the nearby elements so thtats it look into the sorted,and [1:] thing 
+
+# --------------------------------------------------------------------------------------------------------
