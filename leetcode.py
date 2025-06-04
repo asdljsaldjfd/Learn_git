@@ -38,4 +38,6 @@
 # learning the qn now so now first in the buy price we are finding the lowest price we can buy and assign it to the buy_price .. from that indext afterwards
 # check the highest profit and check weather they are and assign it to the profit variable .. so we subtract with i because we need to get the mmost progit right the buy_price
 # also changes accordingly if the price gets lower  
+
+# ...
 # -------------------------------------------------------------------------------------------------------------
