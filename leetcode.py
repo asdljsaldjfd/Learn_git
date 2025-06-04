@@ -61,3 +61,21 @@
 # so i sorted and checked the nearby elements so thtats it look into the sorted,and [1:] thing 
 
 # --------------------------------------------------------------------------------------------------------
+
+# 349. Intersection of Two Arrays
+
+
+# class Solution:
+#     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+#         result=[]
+
+#         for i in range(len(nums1)):
+#             for j in range(len(nums2)):
+#                 if nums1[i] == nums2[j] :
+#                     if nums1[i] not in result:
+#                         result.append(nums1[i])
+#         return result
+
+# check if they are common in two arrays and give me the set as the input thats it 
+
+# -----------------------------------------------------------------------------------------------------
